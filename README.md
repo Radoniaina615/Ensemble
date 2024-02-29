@@ -9,10 +9,7 @@ This guide provides instructions for setting up your development environment for
  3. To run your code, open a terminal and use the command node filename.js.
 
 ¤ Recommended Software:
- · Node.js
- · Visual Studio Code
- · Sublime Text
- · Atom
+ Node.js, Visual Studio Code, Sublime Text, Atom
 
 ₪PHYTON
 
@@ -22,10 +19,7 @@ This guide provides instructions for setting up your development environment for
  3. To run your code, open a terminal and use the command python filename.py.
 
 ¤ Recommended Software:
- · Python
- · Visual Studio Code
- · PyCharm
- · Sublime Text
+ Python, Visual Studio Code, PyCharm, Sublime Text
 
 ₪JAVA
 
@@ -36,10 +30,7 @@ This guide provides instructions for setting up your development environment for
  4. To compile and run your code, use the javac command for compilation and java for execution.
 
 ¤ Recommended Software:
- · JDK
- · IntelliJ IDEA
- · Eclipse
- · NetBeans
+ JDK, IntelliJ IDEA, Eclipse, NetBeans
 
 ₪PHP
 
@@ -50,9 +41,4 @@ This guide provides instructions for setting up your development environment for
  4. Place your PHP files in the directory of your local web server and access them via a web browser.
 
 ¤ Recommended Software:
- · XAMPP
- · WAMP
- · MAMP
- · Visual Studio Code
- · Sublime Text
- · PhpStorm
+ · XAMPP, WAMP, MAMP, Visual Studio Code, Sublime Text, PhpStorm
